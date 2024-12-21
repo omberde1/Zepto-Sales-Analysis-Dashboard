@@ -30,17 +30,31 @@ the dashboard provides insights into key business metrics, offering a comprehens
 
 ---
 
-## Repository Structure 📂  
-- `Zepto_Dashboard.xlsx`: The interactive dashboard file.  
-- `Source_Data.csv`: Raw data used for analysis.  
-- `Dashboard.png`: Dashboard screenshot. 
+## Repository Structure 📂   
+1. **`Dashboard.png`**: A preview of the final interactive dashboard.  
+2. **`Source_Data.csv`**: The raw data used for the analysis.  
+3. **`Zepto_Dashboard.xlsx`**: The Excel workbook containing:  
+   - **Sheet 1: Filtered Data**: Preprocessed data for analysis.  
+   - **Sheet 2: Pivot Table Data**: Summarized data for insights.  
+   - **Sheet 3: Dashboard**: Final interactive dashboard. 
 
 ---
 
 ## How to Use  
-1. Download the repository files.  
-2. Open `Zepto_Dashboard.xlsx` in Microsoft Excel.  
-3. Use slicers and filters to explore the data dynamically.  
+1. **Download the Repository Files**:  
+   - `Dashboard.png`: Preview of the final dashboard.  
+   - `Source_Data.csv`: Raw data for analysis.  
+   - `Zepto_Dashboard.xlsx`: The Excel workbook with all project components.
+
+2. **Open the Excel File** (`Zepto_Dashboard.xlsx`):  
+   - Navigate through the sheets for detailed analysis:  
+     - **Sheet 1: Filtered Data**  
+     - **Sheet 2: Pivot Table Data**  
+     - **Sheet 3: Dashboard**
+
+3. **Interact with the Dashboard**:  
+   - Use slicers to filter data dynamically.  
+   - Explore charts to uncover actionable insights.   
 
 ---
 
